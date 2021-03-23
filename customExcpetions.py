@@ -3,3 +3,9 @@ class bad(Exception):
 
 class noTeamate(Exception):
 	pass
+
+class noTeam(Exception):
+	pass
+
+class stop(Exception):
+	pass
