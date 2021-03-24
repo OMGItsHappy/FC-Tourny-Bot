@@ -9,3 +9,6 @@ class noTeam(Exception):
 
 class stop(Exception):
 	pass
+
+class alreadyInTeam(Exception):
+	pass
